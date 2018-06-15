@@ -6,7 +6,7 @@ package com.example;
 public class Greeter {
 
   /**
-   * This is a constructor.
+   * This is a c  onstructor.
    * I am trying to chag this
    */
   public Greeter() {
