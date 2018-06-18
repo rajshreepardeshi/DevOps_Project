@@ -1,6 +1,5 @@
 package com.example;
 
-import org.apache.xpath.operations.String;
 
 /**
  * This is a class.
