@@ -1,5 +1,7 @@
 package com.example;
 
+import org.apache.xpath.operations.String;
+
 /**
  * This is a class.
  */
@@ -15,7 +17,7 @@ public class Greeter {
   }
 
   //TODO: Add javadoc comment
-  public String greet(String someone) {
-    return String.format("Hello, %s!", someone);
+  public java.lang.String greet(String someone) {
+    return("Hello "+someone);
   }
 }
